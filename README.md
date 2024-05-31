@@ -18,7 +18,6 @@
   - [VPC cloud: Security, High Availability and Reliability](https://github.com/RNtag12/AWS-IAM)
 - <b> Wazuh (SIEM) </b>
   - [Installation and vulnerability scan](https://github.com/RNtag12/SIEM)
- 
 - <b> Machine learning projects </b>
 
 # 💻 Tech Stack:
