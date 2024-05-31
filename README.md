@@ -29,7 +29,7 @@
 - [Network Engineering hands on training](https://credsverse.com/credentials/9eb23030-6e1a-4e13-adc4-37dfee8813d6)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rodrigue-ntagashobotse-022017151/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigue-ntagashobotse-022017151/) 
 
 
 # 📊 GitHub Stats:
