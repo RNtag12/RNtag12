@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Rodrigue:
+# 💫 Hi, I'm Rodrigue
 👩🏻‍💻 Cyber security engineer/researcher<br>👩🏻‍🎓 Studied Computer Engineering at Kyungdong University, South Korea<br>🌱 Pursuing a Master's degree in Cybersecurity at the University of Sydney<br>🌷 Passionate about threat hunting<br>
 
 
