@@ -15,7 +15,7 @@
   - [DBMS with Python: Using python with postgresql to manage a database](https://github.com/RNtag12/DBproject)
 - <b> AWS </b>
   - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
-  - [VPC cloud: Security, High Availability and Reliability](https://github.com/RNtag12/AWS-IAM)
+  - [VPC cloud: Security, High Availability and Reliability](https://github.com/RNtag12/VPC-AWS)
 - <b> Wazuh (SIEM) </b>
   - [Installation and vulnerability scan](https://github.com/RNtag12/SIEM)
 <!---- <b> Machine learning projects </b>--->
