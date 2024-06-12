@@ -23,7 +23,7 @@
 # ⏳ Cybersecurity / networking tools
 
 - <b> SIEM </b>
-  - [Wazuh:Installation and vulnerability scan](https://github.com/RNtag12/SIEM)
+  - [Wazuh:Installation and vulnerability scan on a windows pc](https://github.com/RNtag12/SIEM)
 - <b> Cisco Networking </b>
 - <b> Wireshark & Nmap </b>
 
