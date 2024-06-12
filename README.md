@@ -4,19 +4,20 @@
 
 # 👨‍💻 Cybersecurity Projects
 
-- <b> Simple Algorithm for file update </b>
-  - [File update using a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
+- <b> AWS </b>
+  - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
+  - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
 - <b> Cryptography with Python</b>
   - [Encrypt your files with AES using python](https://github.com/RNtag12/AESPython)
   - [Vigenere cipher decryption using python](https://github.com/RNtag12/Vigenere)
 - <b> Python  </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
+  - [File update using a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
+
+- <b> Database (DBMS)  </b>
   - [DBMS with Python: Using python with postgresql to manage a database](https://github.com/RNtag12/DBproject)
-- <b> AWS </b>
-  - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
-  - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
  
   
  
