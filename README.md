@@ -2,10 +2,10 @@
 👩🏻‍💻 Cyber security engineer/researcher<br>👩🏻‍🎓 Studied Computer Engineering at Kyungdong University, South Korea<br>🌱 Pursuing a Master's degree in Cybersecurity at the University of Sydney<br>🌷 Passionate about threat hunting<br>
 
 
-# 👨‍💻 Cybersecurity & ML Projects:</h2>
+# 👨‍💻 Cybersecurity Projects
 
 - <b> Simple Algorithm for file update </b>
-  - [File update through a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
+  - [File update using a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
 - <b> Cryptography with Python</b>
@@ -27,7 +27,9 @@
 - <b> Cisco Networking </b>
   - 
 - <b> Wireshark & Nmap </b>
-  - 
+
+# 🎰 Machine Learning & AI projects
+
 
 
 # 💻 Tech Stack:
