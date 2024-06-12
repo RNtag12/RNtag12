@@ -6,10 +6,11 @@
 
 - <b> Simple Algorithm for file update </b>
   - [File update through a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
-- <b> Wireshark & Nmap & Linux </b>
+- <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
 - <b> Cryptography with Python</b>
-  - [AES with python](https://github.com/RNtag12/AESPython)
+  - [Encrypt your files with AES using python](https://github.com/RNtag12/AESPython)
+  - [Vigenere cipher decryption using python](https://github.com/RNtag12/Vigenere)
 - <b> Python  </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
   - [DBMS with Python: Using python with postgresql to manage a database](https://github.com/RNtag12/DBproject)
@@ -24,7 +25,9 @@
 - <b> SIEM </b>
   - [Wazuh:Installation and vulnerability scan](https://github.com/RNtag12/SIEM)
 - <b> Cisco Networking </b>
-  - [
+  - 
+- <b> Wireshark & Nmap </b>
+  - 
 
 
 # 💻 Tech Stack:
