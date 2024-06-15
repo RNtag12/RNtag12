@@ -10,7 +10,7 @@
   - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
   - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
 - <b> Cryptography with Python</b>
-  - [Encryption of files with AES using python](https://github.com/RNtag12/AESPython)
+  - [Encryption/Decryption of files with AES using python](https://github.com/RNtag12/AESPython)
   - [Vigenere cipher decryption using python](https://github.com/RNtag12/Vigenere)
   - [Dictionary generator](https://github.com/RNtag12/psswdgenerator)
 - <b> Python  </b>
