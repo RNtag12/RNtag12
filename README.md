@@ -31,6 +31,7 @@
 # 🎰 Machine Learning & AI projects
 - <b> Predictive analysis using ML </b>
   - [DT and RF classifiers with Python](https://github.com/RNtag12/DT_python)
+  - [K-Nearest Neighbors (KNN) Classifier with Python](https://github.com/RNtag12/KNN)
 
 
 # 💻 Tech Stack:
