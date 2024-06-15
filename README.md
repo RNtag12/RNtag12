@@ -29,7 +29,8 @@
 - <b> Network Analysis </b>
 
 # 🎰 Machine Learning & AI projects
-- <b> Decision tree </b>
+- <b> Predictive analysis using ML </b>
+  - [DT and RF classifiers with Python](https://github.com/RNtag12/DT_python)
 
 
 # 💻 Tech Stack:
