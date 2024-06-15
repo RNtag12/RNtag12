@@ -26,7 +26,7 @@
 
 - <b> SIEM </b>
 - <b> Cisco Networking </b>
-- <b> Network Analysis </b>
+- <b> Network Analysis (Nmap, Wireshark)</b>
 
 # 🎰 Machine Learning & AI projects
 - <b> Predictive analysis using ML </b>
