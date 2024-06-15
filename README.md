@@ -24,12 +24,11 @@
 # ⏳ Cybersecurity / networking tools
 
 - <b> SIEM </b>
-  - [Wazuh: Installation and vulnerability scan on a windows pc](https://github.com/RNtag12/SIEM)
 - <b> Cisco Networking </b>
 - <b> Wireshark & Nmap </b>
 
 # 🎰 Machine Learning & AI projects
-
+- <b> Decision tree </b>
 
 
 # 💻 Tech Stack:
