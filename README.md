@@ -10,7 +10,7 @@
   - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
   - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
 - <b> Cryptography with Python</b>
-  - [Encrypt your files with AES using python](https://github.com/RNtag12/AESPython)
+  - [Encryption of files with AES using python](https://github.com/RNtag12/AESPython)
   - [Vigenere cipher decryption using python](https://github.com/RNtag12/Vigenere)
   - [Dictionary generator](https://github.com/RNtag12/psswdgenerator)
 - <b> Python  </b>
@@ -26,7 +26,7 @@
 
 - <b> SIEM </b>
 - <b> Cisco Networking </b>
-- <b> Wireshark & Nmap </b>
+- <b> Network Analysis </b>
 
 # 🎰 Machine Learning & AI projects
 - <b> Decision tree </b>
