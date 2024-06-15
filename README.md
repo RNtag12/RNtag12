@@ -12,6 +12,7 @@
 - <b> Cryptography with Python</b>
   - [Encrypt your files with AES using python](https://github.com/RNtag12/AESPython)
   - [Vigenere cipher decryption using python](https://github.com/RNtag12/Vigenere)
+  - [Dictionary generator](https://github.com/RNtag12/psswdgenerator)
 - <b> Python  </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
   - [File update using a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
