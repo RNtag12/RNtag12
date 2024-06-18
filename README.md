@@ -10,8 +10,8 @@
   - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
   - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
 - <b> Cryptography with Python</b>
-  - [Encryption/Decryption of files with AES using python](https://github.com/RNtag12/AESPython)
-  - [Vigenere cipher decryption using python](https://github.com/RNtag12/Vigenere)
+  - [Encryption/Decryption of files with AES with python](https://github.com/RNtag12/AESPython)
+  - [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
   - [Dictionary of keywords generator](https://github.com/RNtag12/psswdgenerator)
   - [Frequency analysis with Python](https://github.com/RNtag12/psswdgenerator)
 - <b> Python  </b>
