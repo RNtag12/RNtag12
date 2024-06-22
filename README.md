@@ -28,7 +28,8 @@
 - <b> SIEM </b>
 - <b> Cisco Networking </b>
 - <b> Network Analysis (Nmap, Wireshark)</b>
-- <b> Powershell </b>
+- <b> Powershell scripting</b>
+  - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
 
 # 🎰 Machine Learning & AI projects
 - <b> Predictive analysis using ML </b>
