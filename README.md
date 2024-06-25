@@ -4,7 +4,7 @@
 
 # 👨‍💻 Cybersecurity Projects
 
-- <b> Python for cybersecurity  </b>
+- <b> Python for cybersecurity (USING MITRE ATT&CK FRAMEWORK)</b>
   - 
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
