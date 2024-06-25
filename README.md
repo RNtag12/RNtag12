@@ -4,6 +4,8 @@
 
 # 👨‍💻 Cybersecurity Projects
 
+- <b> Python for cybersecurity  </b>
+  - 
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
 - <b> AWS </b>
@@ -14,11 +16,11 @@
   - [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
   - [Dictionary of keywords generator](https://github.com/RNtag12/psswdgenerator)
   - [Frequency analysis with Python](https://github.com/RNtag12/frequencyAnalysis)
-- <b> Python practice  </b>
-  - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
-  - [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
 - <b> Database (DBMS)  </b>
   - [DBMS with Python: Using python with postgresql to manage a database](https://github.com/RNtag12/DBproject)
+- <b> Other Projects  </b>
+  - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
+  - [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
  
 # ⏳ Cybersecurity / Networking tools
 
