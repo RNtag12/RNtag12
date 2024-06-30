@@ -6,7 +6,7 @@
 
 - <b> Python for cybersecurity (USING MITRE ATT&CK FRAMEWORK)</b>
   - [MITRE Pre-ATT&CK (Active Scanning)](https://github.com/RNtag12/ActiveScanning)
-  - [MITRE Pre-ATT&CK 2 (Honey pot)](https://github.com/RNtag12/honeypotscan)
+  - [MITRE Pre-ATT&CK 2 (Honey pot: Defensive)](https://github.com/RNtag12/honeypotscan)
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
 - <b> AWS </b>
