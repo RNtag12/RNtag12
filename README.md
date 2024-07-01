@@ -5,7 +5,7 @@
 # 👨‍💻 Cybersecurity Projects
 
 - <b> Python for cybersecurity (USING MITRE ATT&CK FRAMEWORK)</b>
-  - [MITRE Pre-ATT&CK (Active Scanning)](https://github.com/RNtag12/ActiveScanning)
+  - [MITRE Pre-ATT&CK (Active Scanning: Port Scanning)](https://github.com/RNtag12/ActiveScanning)
   - [MITRE Pre-ATT&CK 2 (Honey pot: Defensive)](https://github.com/RNtag12/honeypotscan)
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
