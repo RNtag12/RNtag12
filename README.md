@@ -27,7 +27,8 @@
 
 - <b> SIEM </b>
 - <b> Cisco Networking </b>
-- <b> [Network Analysis](https://github.com/RNtag12/networkanalysis)</b>
+- <b> Network analysis projects</b>
+    - [Network Analysis](https://github.com/RNtag12/networkanalysis)
 - <b> Powershell scripting</b>
   - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
 
