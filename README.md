@@ -27,7 +27,7 @@
 
 - <b> SIEM </b>
 - <b> Cisco Networking </b>
-- <b> Network Analysis (Nmap, Wireshark)</b>
+- <b> [Network Analysis](https://github.com/RNtag12/networkanalysis)</b>
 - <b> Powershell scripting</b>
   - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
 
