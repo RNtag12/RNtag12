@@ -5,7 +5,7 @@
 # 👨‍💻 Cybersecurity Projects
 
 - <b> Homelab Collaboration: Penetration Testing and Network Security Projects</b>
-    - [HomeLab](https://github.com/RNtag12/networkanalysis)
+    - [HomeLab Projects](https://github.com/RNtag12/networkanalysis)
 - <b> Python for cybersecurity (USING MITRE ATT&CK FRAMEWORK)</b>
   - [MITRE Pre-ATT&CK (Active Scanning: Port Scanning)](https://github.com/RNtag12/ActiveScanning)
   - [MITRE Pre-ATT&CK 2 (Honey pot: Defensive)](https://github.com/RNtag12/honeypotscan)
