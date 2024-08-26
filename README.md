@@ -6,9 +6,9 @@
 
 - <b> Homelab Collaboration: Penetration Testing and Network Security Projects</b>
     - [HomeLab Projects](https://github.com/RNtag12/networkanalysis)
-- <b> Python for cybersecurity (USING MITRE ATT&CK FRAMEWORK)</b>
-  - [MITRE Pre-ATT&CK (Active Scanning: Port Scanning)](https://github.com/RNtag12/ActiveScanning)
-  - [MITRE Pre-ATT&CK 2 (Honey pot: Defensive)](https://github.com/RNtag12/honeypotscan)
+- <b> Python with cybersecurity</b>
+  - [MITRE Pre-ATT&CK FRAMEWORK: Active Scanning](https://github.com/RNtag12/ActiveScanning)
+  - [MITRE Pre-ATT&CK FRAMEWORK: Honey pot](https://github.com/RNtag12/honeypotscan)
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
 - <b> AWS </b>
