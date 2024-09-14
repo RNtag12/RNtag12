@@ -24,13 +24,14 @@
 - <b> Other Projects  </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
   - [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
+  - <b> Powershell scripting</b>
+    - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
  
 # ⏳ Cybersecurity / Networking tools
 
 - <b> SIEM </b>
 - <b> Cisco Networking </b>
-- <b> Powershell scripting</b>
-  - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
+
 
 # 🎰 Machine Learning & AI projects
 - <b> Predictive analysis using ML </b>
