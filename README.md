@@ -8,7 +8,7 @@
     - [HomeLab Projects](https://github.com/RNtag12/networkanalysis)
     - [Network analysis with Nmap and Wireshark](https://github.com/RNtag12/pentesting/blob/main/week1_nmap_wireshark.md)
     - [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
-    - [Network Monitoring](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
+    - [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
 - <b> Python with cybersecurity</b>
   - [MITRE Pre-ATT&CK FRAMEWORK: Active Scanning](https://github.com/RNtag12/ActiveScanning)
   - [MITRE Pre-ATT&CK FRAMEWORK: Honey pot](https://github.com/RNtag12/honeypotscan)
