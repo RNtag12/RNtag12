@@ -4,8 +4,7 @@
 
 # 👨‍💻 Cybersecurity Projects
 
-- <b> Homelab Collaboration: Penetration Testing and Network Security Projects</b>
-    - [HomeLab Projects](https://github.com/RNtag12/networkanalysis)
+- <b> Homelab Projects: Penetration Testing and Network Security </b>
     - [Network analysis with Nmap and Wireshark](https://github.com/RNtag12/pentesting/blob/main/week1_nmap_wireshark.md)
     - [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
     - [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
