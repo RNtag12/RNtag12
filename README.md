@@ -32,8 +32,9 @@
  
 # ⏳ Cybersecurity / Networking tools
 
-- <b> SIEM </b>
-- <b> Cisco Networking </b>
+- <b> web application firewall </b>
+- <b> Traffic analysis tools </b>
+- <b> Virtual machines </b>
 
 
 # 🎰 Machine Learning & AI projects
