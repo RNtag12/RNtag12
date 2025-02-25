@@ -29,6 +29,11 @@
   - [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
   - <b> Powershell scripting</b>
     - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
+   
+
+## 📜 Publications
+
+- [Building a Resilient IoT Security Architecture with Zero Trust Intrusion Detection](https://link.springer.com/chapter/10.1007/978-981-97-0573-3_45)
  
 # ⏳ Cybersecurity / Networking tools
 
