@@ -35,13 +35,6 @@
 
 - [Building a Resilient IoT Security Architecture with Zero Trust Intrusion Detection](https://link.springer.com/chapter/10.1007/978-981-97-0573-3_45)
  
-# ⏳ Cybersecurity / Networking tools
-
-- <b> web application firewall </b>
-- <b> Traffic analysis tools </b>
-- <b> Virtual machines </b>
-
-
 # 🎰 Machine Learning & AI projects
 - <b> Predictive analysis using ML </b>
   - [DT and RF classifiers with Python](https://github.com/RNtag12/DT_python)
