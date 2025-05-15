@@ -27,6 +27,7 @@
 - <b> Other Projects  </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
   - [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
+  - [KQL Analysis Project with KQL](https://github.com/RNtag12/KQL)
   - <b> Powershell scripting</b>
     - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
    
