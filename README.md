@@ -50,6 +50,7 @@
 - [Google cybersecurity certificate](https://www.credly.com/go/9EzwLrIi)
 - [Network Engineering hands on training](https://credsverse.com/credentials/9eb23030-6e1a-4e13-adc4-37dfee8813d6)
 - [Recursion with Python](https://www.codecademy.com/profiles/ajax8120205765/certificates/178999765bc2aed426212106616dec03)
+- [Prevent SQL injections in Web applications using NodeJs](https://www.codecademy.com/profiles/ajax8120205765/certificates/ad03234023f444689bb92126d8e30af7)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigue-ntagashobotse-022017151/) 
