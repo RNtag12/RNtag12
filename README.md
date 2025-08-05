@@ -17,7 +17,7 @@
   - [MITRE Pre-ATT&CK FRAMEWORK: Honey pot](https://github.com/RNtag12/honeypotscan)
 - <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
-- <b> AWS </b>
+- <b> Cloud Security AWS & Azure </b>
   - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
   - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
 - <b> Cryptography with Python</b>
