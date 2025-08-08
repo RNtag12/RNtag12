@@ -60,7 +60,7 @@
 # 🌐 Socials:
 <b> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width="200"&height="40"&alt="LinkedIn")](https://linkedin.com/in/rodrigue-ntagashobotse-022017151/&witdth=200) </b>
 <b>
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rodriguentag)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rntag)
 </b>
 
 
