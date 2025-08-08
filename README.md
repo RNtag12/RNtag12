@@ -57,8 +57,10 @@
 ![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-4479A1.svg?style=for-the-badge&logo=css&logoColor=white)
 
 # 🌐 Socials:
-<b> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width="200"&height="40"&alt="LinkedIn")(https://linkedin.com/in/rodrigue-ntagashobotse-022017151/&witdth=200)]</b>
-<b> [![TryHackMe] (https://tryhackme-badges.s3.amazonaws.com/rodriguentag.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2614058) </b>
+<b> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width="200"&height="40"&alt="LinkedIn")](https://linkedin.com/in/rodrigue-ntagashobotse-022017151/&witdth=200) </b>
+<b>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rodrigueNtagashobotse)] (https://tryhackme.com/p/rodriguentag)
+</b>
 
 
 
