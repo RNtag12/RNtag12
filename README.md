@@ -1,25 +1,39 @@
 # 💫 Hi, I'm Rodrigue
-👩🏻‍💻 Aspiring Cyber security engineer & researcher<br>👩🏻‍🎓 Studied Computer Engineering at Kyungdong University, South Korea<br>🌱 Pursuing a Master's degree in Cybersecurity at the University of Sydney<br>🌷 Passionate about threat hunting and offensive security<br>
+👩🏻‍💻 Aspiring Cyber security engineer & researcher<br>👩🏻‍🎓 Studied Computer Engineering at Kyungdong University, South Korea<br>🌱 Recently completed a Master's degree in Cybersecurity at the University of Sydney<br>🌷 Passionate about threat hunting and offensive security<br>
 
+## 📜 Certifications
+
+- [Google cybersecurity certificate](https://www.credly.com/go/9EzwLrIi)
+- [Network Engineering hands on training](https://credsverse.com/credentials/9eb23030-6e1a-4e13-adc4-37dfee8813d6)
+- [Recursion with Python](https://www.codecademy.com/profiles/ajax8120205765/certificates/178999765bc2aed426212106616dec03)
+- [Prevent SQL injections in Web applications using NodeJs](https://www.codecademy.com/profiles/ajax8120205765/certificates/ad03234023f444689bb92126d8e30af7)
 
 # 👨‍💻 Cybersecurity Projects
-
-- <b> Homelab Projects: Penetration Testing and Network Security </b>
-    - [Network analysis with Nmap and Wireshark](https://github.com/RNtag12/pentesting/blob/main/week1_nmap_wireshark.md)
-    - [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
-    - [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
-    - [Web application firewall setup with NAXSI and NGINX](https://github.com/RNtag12/pentesting/blob/main/week4_web_application_Firewall.md)
-      
-- <b> Web Development  </b>
-    - [Full stack Web application (e-commerce)](https://github.com/RNtag12/web-dev#)
+## Homelab Projects: Penetration Testing and Network Security
+- [Network analysis with Nmap and Wireshark](https://github.com/RNtag12/pentesting/blob/main/week1_nmap_wireshark.md)
+- [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
+- [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
+- [Web application firewall setup with NAXSI and NGINX](https://github.com/RNtag12/pentesting/blob/main/week4_web_application_Firewall.md)
+  
+## Cryptography with Python
+- [Encryption/Decryption of files with AES](https://github.com/RNtag12/AESPython)
+- [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
+- [Dictionary of keywords generator](https://github.com/RNtag12/psswdgenerator)
+- [Frequency analysis with Python](https://github.com/RNtag12/frequencyAnalysis)
+- <b> Linux </b>
+  - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
+ 
 - <b> Python with cybersecurity</b>
   - [MITRE Pre-ATT&CK FRAMEWORK: Active Scanning](https://github.com/RNtag12/ActiveScanning)
   - [MITRE Pre-ATT&CK FRAMEWORK: Honey pot](https://github.com/RNtag12/honeypotscan)
-- <b> Linux </b>
-  - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
-- <b> Cloud Security AWS & Azure </b>
+      
+# 🌐 Web Development with Node  </b>
+    - [Full stack Web application (e-commerce) MEAN stack](https://github.com/RNtag12/web-dev#)
+
+# ☁️ Cloud Security AWS & Azure
   - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
   - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
+
 - <b> Cryptography with Python</b>
   - [Encryption/Decryption of files with AES](https://github.com/RNtag12/AESPython)
   - [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
@@ -53,12 +67,7 @@
 
 
 
-## 📜 Certifications
 
-- [Google cybersecurity certificate](https://www.credly.com/go/9EzwLrIi)
-- [Network Engineering hands on training](https://credsverse.com/credentials/9eb23030-6e1a-4e13-adc4-37dfee8813d6)
-- [Recursion with Python](https://www.codecademy.com/profiles/ajax8120205765/certificates/178999765bc2aed426212106616dec03)
-- [Prevent SQL injections in Web applications using NodeJs](https://www.codecademy.com/profiles/ajax8120205765/certificates/ad03234023f444689bb92126d8e30af7)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigue-ntagashobotse-022017151/) 
