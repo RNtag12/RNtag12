@@ -10,21 +10,21 @@
 - [Prevent SQL injections in Web applications using NodeJs](https://www.codecademy.com/profiles/ajax8120205765/certificates/ad03234023f444689bb92126d8e30af7)
 
 # 👨‍💻 Cybersecurity Projects
-## Homelab Projects: Penetration Testing and Network Security
+### 🏠 Homelab Projects: Penetration Testing and Network Security
 - [Network analysis with Nmap and Wireshark](https://github.com/RNtag12/pentesting/blob/main/week1_nmap_wireshark.md)
 - [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
 - [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
 - [Web application firewall setup with NAXSI and NGINX](https://github.com/RNtag12/pentesting/blob/main/week4_web_application_Firewall.md)
-## Cryptography with Python
+### 🚀 Cryptography with Python
 - [Encryption/Decryption of files with AES](https://github.com/RNtag12/AESPython)
 - [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
 - [Dictionary of keywords generator](https://github.com/RNtag12/psswdgenerator)
 - [Frequency analysis with Python](https://github.com/RNtag12/frequencyAnalysis)
   
-## <b> Linux </b>
+### 💽<b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
     
-## ☁️ Cloud Security AWS & Azure
+### ☁️ Cloud Security AWS & Azure
 - [AWS Identity and Access Management](https://github.com/RNtag12/AWS-IAM)
 - [Building a secure, highly available and scalable VPC](https://github.com/RNtag12/VPC-AWS)
      
@@ -59,7 +59,7 @@
 # 🌐 Socials:
 <b> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width="200"&height="40"&alt="LinkedIn")](https://linkedin.com/in/rodrigue-ntagashobotse-022017151/&witdth=200) </b>
 <b>
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rodriguentag)]
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rodriguentag)
 </b>
 
 
