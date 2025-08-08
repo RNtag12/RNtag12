@@ -15,14 +15,13 @@
 - [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
 - [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
 - [Web application firewall setup with NAXSI and NGINX](https://github.com/RNtag12/pentesting/blob/main/week4_web_application_Firewall.md)
-  
 ## Cryptography with Python
 - [Encryption/Decryption of files with AES](https://github.com/RNtag12/AESPython)
 - [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
 - [Dictionary of keywords generator](https://github.com/RNtag12/psswdgenerator)
 - [Frequency analysis with Python](https://github.com/RNtag12/frequencyAnalysis)
   
-- <b> Linux </b>
+## <b> Linux </b>
   - [File permission update with linux ](https://github.com/RNtag12/FilePermissionLinux)
     
 ## ☁️ Cloud Security AWS & Azure
@@ -38,14 +37,14 @@
   - [DT and RF classifiers with Python](https://github.com/RNtag12/DT_python)
   - [K-Nearest Neighbors (KNN) Classifier with Python](https://github.com/RNtag12/KNN)
   - [Linear Regression with Python](https://github.com/RNtag12/linear_regression)
-# Other projects..
-- <b> Database (DBMS)  </b>
-  - [DBMS with Python: Using python with postgresql to manage a database](https://github.com/RNtag12/DBproject)
+# Other projects...
+### Database (DBMS)
+- [DBMS with Python: Using python with postgresql to manage a database](https://github.com/RNtag12/DBproject)
     
-- <b> Other Projects  </b>
-  - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
-  - [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
-  - [KQL Analysis Project with KQL](https://github.com/RNtag12/KQL)
+### Other Projects
+- [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
+- [File update with python](https://github.com/RNtag12/UpdateFile/tree/main)
+- [KQL Analysis Project with KQL](https://github.com/RNtag12/KQL)
     
   - <b> Powershell scripting</b>
     - [Powershell automation and scripting projects](https://github.com/RNtag12/scriptingPwrshell)
