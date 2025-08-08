@@ -15,6 +15,7 @@
 - [Network traversal: port forwarding and VPN tunneling](https://github.com/RNtag12/pentesting/blob/main/week2_network_traversal.md)
 - [Network Monitoring with pfSense and Snort](https://github.com/RNtag12/pentesting/blob/main/week3_networking_monitoring.md)
 - [Web application firewall setup with NAXSI and NGINX](https://github.com/RNtag12/pentesting/blob/main/week4_web_application_Firewall.md)
+- [Web application vulnerability testing](https://github.com/RNtag12/pentesting/blob/main/week5_Testing%20DVWA%20with%20Security%20Tools.md)
 ### 🚀 Cryptography with Python
 - [Encryption/Decryption of files with AES](https://github.com/RNtag12/AESPython)
 - [Vigenere cipher decryption with python](https://github.com/RNtag12/Vigenere)
