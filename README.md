@@ -1,8 +1,8 @@
 # 💫 Hi, I'm Rodrigue
-👩🏻‍💻 Aspiring Cyber security engineer & researcher<br>👩🏻‍🎓 Studied Computer Engineering at Kyungdong University, South Korea<br>🌱 Recently completed a Master's degree in Cybersecurity (Cloud specialisation) at the University of Sydney<br>🌷 Passionate about threat hunting and offensive security/pentesting <br>
-<br>🌷 Progressing steadily toward the **ETERNAL** level on TryHackMe <br>
+👩🏻‍💻 Aspiring Cyber security engineer & researcher<br>👩🏻‍🎓 Studied Computer Engineering at Kyungdong University, South Korea<br>🌱 Recently completed a Master's degree in Cybersecurity (Cloud specialisation) at the University of Sydney<br>🌷 Passionate about threat hunting and offensive security/pentesting <br> 
+**<br> Progressing steadily toward the **ETERNAL** level on TryHackMe </br>**
 
-## 📜 Certifications
+# 📜 Certifications
 
 - [Google cybersecurity certificate](https://www.credly.com/go/9EzwLrIi)
 - [Network Engineering hands on training](https://credsverse.com/credentials/9eb23030-6e1a-4e13-adc4-37dfee8813d6)
